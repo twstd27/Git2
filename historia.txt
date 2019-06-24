@@ -1,0 +1,3 @@
+Este es el primer archivo de mi primer repositorio en git
+
+#AprendiendoGIT
