@@ -4,3 +4,17 @@ body{
   font-family: 'Courier New', Courier, monospace;
   color: antiquewhite;
 }
+
+h1{
+  font-size: 2em;
+  font-weight: 900;
+}
+
+.listbox{
+  color: #333;
+  background-color: antiquewhite;
+  width: 400px;
+  margin: 0 auto;
+  text-align: left;
+  padding: 5px;
+}
